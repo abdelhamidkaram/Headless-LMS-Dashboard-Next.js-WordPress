@@ -1,4 +1,4 @@
-# Headless LMS Dashboard
+# Headless LMS Dashboard - Next.js & WordPress
 
 ## 🚀 Introduction
 
