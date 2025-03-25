@@ -28,7 +28,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/headless-lms-dashboard.git
+git clone https://github.com/abdelhamidkaram/Headless-LMS-Dashboard-Next.js-WordPress.git
 cd headless-lms-dashboard
 
 # Install dependencies
